@@ -1,0 +1,48 @@
+{
+  "uniqueId": {
+    "S": "2025-05-31T10:20:00Z"
+  },
+  "deleted": {
+    "BOOL": false
+  },
+  "detected": {
+    "BOOL": true
+  },
+  "duration": {
+    "N": "23.5"
+  },
+  "fileSize": {
+    "N": "10485760"
+  },
+  "format": {
+    "S": "mp4"
+  },
+  "mediaID": {
+    "S": "bird123.mp4"
+  },
+  "mediaType": {
+    "S": "video"
+  },
+  "originalURL": {
+    "S": "https://dummy-bucket-name.s3.amazonaws.com/bird123.mp4"
+  },
+  "tags": {
+    "M": {
+      "crow": {
+        "N": "3"
+      },
+      "pigeon": {
+        "N": "1"
+      }
+    }
+  },
+  "thumbnailURL": {
+    "S":"https://api-gateway-test-bird.s3.us-east-1.amazonaws.com/31efdea18ea1c930647804bd032684da.png" 
+  },
+  "uploadTime": {
+    "S": "2025-05-31T10:20:00Z"
+  },
+  "annot":{
+    "S":"url"
+  }
+}

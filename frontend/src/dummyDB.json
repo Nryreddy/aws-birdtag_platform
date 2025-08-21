@@ -1,0 +1,15 @@
+{
+  "searchByTagCount": {
+    "crow": ["https://w0.peakpx.com/wallpaper/356/518/HD-wallpaper-bald-eagle-bird-of-prey-yellow-beak-eyes-predator-american-symbol-eagle-thumbnail.jpg", "https://w0.peakpx.com/wallpaper/356/518/HD-wallpaper-bald-eagle-bird-of-prey-yellow-beak-eyes-predator-american-symbol-eagle-thumbnail.jpg"],
+    "pigeon": ["https://media.gettyimages.com/id/144726918/video/low-angle-hand-held-pigeons-perch-on-the-edge-of-a-roof-usa.jpg?s=640x640&k=20&c=2z3UDCFFCWWLYL9kgV88mX1-83w5VxpGzApSaVWDZJg="]
+  },
+  "searchByTags": {
+    "crow": ["https://w0.peakpx.com/wallpaper/356/518/HD-wallpaper-bald-eagle-bird-of-prey-yellow-beak-eyes-predator-american-symbol-eagle-thumbnail.jpg"],
+    "pigeon": ["https://media.gettyimages.com/id/144726918/video/low-angle-hand-held-pigeons-perch-on-the-edge-of-a-roof-usa.jpg?s=640x640&k=20&c=2z3UDCFFCWWLYL9kgV88mX1-83w5VxpGzApSaVWDZJg="],
+    "sparrow": ["lol"]
+  },
+  "searchByThumbnail": {
+    "https://example.com/crow1-thumb.png": "https://w0.peakpx.com/wallpaper/356/518/HD-wallpaper-bald-eagle-bird-of-prey-yellow-beak-eyes-predator-american-symbol-eagle-thumbnail.jpg",
+    "https://example.com/pigeon1-thumb.png": "https://w0.peakpx.com/wallpaper/356/518/HD-wallpaper-bald-eagle-bird-of-prey-yellow-beak-eyes-predator-american-symbol-eagle-thumbnail.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+Login Page -> Main page ( 
+
+Two buttons
+
+Uplopad page buttons
+Search Page buttons
+
+)
+
+http://monash-bird-search-ui.s3-website-ap-southeast-2.amazonaws.com/upload -> Uplopad page (fOR UPloading the files) -> s3 -> nithesh
+
+
+http://monash-bird-search-ui.s3-website-ap-southeast-2.amazonaws.com/query-db -> Search Page buttons (Bird media search) -> api gateway -> Lambda -> db
+
