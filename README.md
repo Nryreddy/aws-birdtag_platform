@@ -1,7 +1,7 @@
 # 🐦 BirdTag: An AWS-Powered Serverless Media Storage System with Advanced Tagging Capabilities
 
 An AWS-based serverless application designed for Monash Birdy Buddies (MBB). The system enables media storage, automatic tagging, and intelligent querying of bird-related media.
-![image](https://github.com/Pranav-coder88/Monash-FIT5225-A2/blob/main/Architecture/AWS-Group-A2.png)
+![image](Architecture/AWS-Group-A2.png)
 ## 👥 Team Members
 
 - Pranav : 34273905 - Security and Front-end
